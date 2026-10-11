@@ -1,0 +1,50 @@
+{
+  "name": "autonomous-youtube-studio",
+  "version": "1.0.0",
+  "description": "Autonomous YouTube video production studio producing high-CPM, trend-backed videos and Shorts with multi-agent debate and compliance verification.",
+  "tech_stack": [
+    "Python 3.13",
+    "FFmpeg 7.x",
+    "edge-tts",
+    "Pillow (PIL)",
+    "YouTube Data API / Google Trends"
+  ],
+  "conventions": [
+    "Each agent operates with distinct role and criteria",
+    "Every fact and metric must have verifiable source in sources.md",
+    "All debates must be logged in debate_logs/ with minimum 2 rounds before approval",
+    "Compliance Agent holds veto power on policy, copyright, and brand safety",
+    "Monetization Analyst acts as ultimate tiebreaker after round 3"
+  ],
+  "architecture_patterns": [
+    "Multi-agent debate loop (Producer vs Critic vs Compliance)",
+    "Modular pipeline: Trend Research -> Monetization -> Scriptwriting -> Production -> SEO",
+    "Pure local synthesis: FFmpeg + edge-tts neural voice + high-contrast visual composition"
+  ],
+  "file_structure": {
+    "output/<topic-slug>": "Rendered MP4s, thumbnail, script, metadata, and research",
+    "debate_logs": "Markdown logs of multi-agent debate rounds per production stage",
+    "src": "Pipeline automation scripts and agents"
+  },
+  "testing_strategy": {
+    "framework": "ase-init --validate + FFmpeg media validation",
+    "patterns": [
+      "Verification of audio/video sync, frame rate, and aspect ratio (16:9 and 9:16)",
+      "Strict compliance check against YouTube Advertiser-Friendly and Spam policies"
+    ]
+  },
+  "never_do": [
+    "Never use copyrighted audio, music, video clips, or unauthorized images",
+    "Never fabricate statistics or metrics without citation",
+    "Never make promises of virality; output realistic viral potential scores with risks",
+    "Never bypass Critic debate or Compliance veto gates",
+    "Never output unprompted recaps, step-by-step changelogs, or repetitive summaries that waste tokens",
+    "Never leave completed work uncommitted or unpushed to GitHub"
+  ],
+  "preferred_patterns": [
+    "Practice extreme token economy: keep responses concise, high-signal, and directly answer user requests",
+    "Use edge-tts neural voices (e.g., en-US-ChristopherNeural or en-US-GuyNeural) for clear, broadcast-grade delivery",
+    "Generate high-contrast, clickable thumbnails optimized for mobile CTR",
+    "Enforce YouTube YPP reused content policy by ensuring substantial original commentary and value-add"
+  ]
+}
