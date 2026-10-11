@@ -2,13 +2,13 @@
 
 **Audience Setting in YouTube Studio:** **"Yes, it's made for kids"**  
 **Category ID:** 27 (Education) or 1 (Film & Animation)  
-**Narration Voice:** `en-US-AvaNeural` (Caring, warm bedtime storyteller)
+**Narration Voice:** `en-US-JennyNeural` (Warm, gentle bedtime storyteller) + soft music box lullaby bed
 
 ---
 
 ## Short #1: Barnaby the Bear Who Lost His Roar
 - **File:** [shorts_1.mp4](file:///home/thor/Desktop/Youtube/output/kids-bedtime-fables/shorts_1.mp4)
-- **Duration:** 37.75s
+- **Duration:** 40.18s
 - **Title:** Barnaby the Bear Who Lost His Roar 🐻✨ (Bedtime Story for Kids)
 - **Description:**
 ```markdown
@@ -24,7 +24,7 @@ A soothing bedtime moral fable for little dreamers.
 
 ## Short #2: Pip the Little Cloud Who Wanted a Rainbow
 - **File:** [shorts_2.mp4](file:///home/thor/Desktop/Youtube/output/kids-bedtime-fables/shorts_2.mp4)
-- **Duration:** 37.08s
+- **Duration:** 40.46s
 - **Title:** The Little Cloud Who Made a Rainbow ☁️🌈 (Bedtime Story)
 - **Description:**
 ```markdown
@@ -40,7 +40,7 @@ A gentle moral story about friendship and teamwork.
 
 ## Short #3: Oliver the Owl Who Loved the Stars
 - **File:** [shorts_3.mp4](file:///home/thor/Desktop/Youtube/output/kids-bedtime-fables/shorts_3.mp4)
-- **Duration:** 39.94s
+- **Duration:** 43.78s
 - **Title:** Oliver the Owl & the Sparkly Night Sky 🦉⭐ (Bedtime Fable)
 - **Description:**
 ```markdown

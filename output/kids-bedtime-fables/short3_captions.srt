@@ -1,23 +1,23 @@
 1
-00:00:00,000 --> 00:00:06,500
-Oliver was a baby owl in a cozy hollow tree. But Oliver was afraid of the dark!
+00:00:00,000 --> 00:00:07,000
+Oliver was a baby owl in a cozy hollow tree. But Oliver had a secret: he was afraid of the dark!
 
 2
-00:00:06,500 --> 00:00:13,000
+00:00:07,000 --> 00:00:13,500
 When the sun went down, Oliver hid under his soft wings.
 
 3
-00:00:13,000 --> 00:00:19,500
-Then, a sparkling firefly named Lumina tapped gently on his beak.
+00:00:13,500 --> 00:00:20,500
+Then, a tiny sparkling firefly named Lumina tapped gently on his beak.
 
 4
-00:00:19,500 --> 00:00:26,000
-"Peek outside, Oliver! The dark is just the blanket that lets the sparkly stars play!"
+00:00:20,500 --> 00:00:28,000
+"Oliver, peek outside! The dark is just the blanket that lets the sparkly stars play!"
 
 5
-00:00:26,000 --> 00:00:33,000
+00:00:28,000 --> 00:00:36,000
 Oliver opened his big golden eyes. The forest glowed with moonlight and shooting stars.
 
 6
-00:00:33,000 --> 00:00:39,940
-It wasn't scary at all; it was wondrous. Close your eyes, little explorer.
+00:00:36,000 --> 00:00:43,780
+It was not scary at all; it was wondrous. Close your eyes, little explorer.
