@@ -1,56 +1,26 @@
-# Verifiable Data Sources & Citations
+# Verifiable Data Sources & Audit Ledger
 
-**Status:** Audited by Compliance Agent (October 12, 2026)  
-**Rule:** Only statistics marked as **[VERIFIED]** are permitted in scripts. Any **[UNVERIFIED]** claims have been removed or softened.
-
----
-
-### 1. Gartner Enterprise Application & SaaS Forecast
-- **Claim:** Up to **\$234 billion** in enterprise SaaS spending is at risk of disruption from "agentic arbitrage" between 2026 and 2030 (representing ~20% of enterprise SaaS spending by 2030).
-  - **Status:** **[VERIFIED]**
-  - **Source:** Gartner Press Release (July 1, 2026): *"Gartner Estimates \$234 Billion in Enterprise Software-as-a-Service Spending at Risk of Disruption From Agentic Arbitrage by 2030."*
-  - **URL:** https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-estimates-234-billion-in-enterprise-software-as-a-service-spending-at-risk
-  - **Exact Definition:** "Agentic arbitrage" occurs as autonomous AI agents execute tasks directly across enterprise applications, bypassing traditional graphical user interfaces (GUIs) and making underlying tools invisible to end users.
-  - **Key Quote (George Brocklehurst, VP Analyst at Gartner):** Describes this shift as an architectural "metamorphosis" rather than a sudden "apocalypse," breaking the historic link between employee seat counts and software revenue growth.
-
-- **Claim:** Spending on agentic AI software is forecast to grow at a **62.7% CAGR** from 2025 to 2030, reaching **\$985 billion by 2030**.
-  - **Status:** **[VERIFIED]**
-  - **Source:** Gartner Emerging Tech Forecast & Market Analysis.
-  - **URL:** https://www.gartner.com/en/information-technology/research
-
-- **Claim:** Enterprise AI Agent Adoption Rate.
-  - **Previous Claim:** "70% of organizations have deployed agentic AI in 2026."
-  - **Status:** **[UNVERIFIED / SOFTENED]**
-  - **Verification Audit:** The 70% figure comes from intention/outlook surveys (e.g. IBM 2026 outlook: 70% *plan* to deploy; IDC 2029 projection). Gartner's empirical 2026 CIO data shows **17% of organizations have deployed AI agents in production**, while Gartner projects **40% of enterprise applications will embed task-specific agents by end of 2026**.
-  - **Script Action:** Replaced the unverified 70% production claim with the verified 17% current production adoption and Gartner's 40% enterprise application projection.
-
-- **Claim:** Over **40% of agentic AI projects could be canceled by the end of 2027** due to escalating compute costs, unclear business value, or governance failures.
-  - **Status:** **[VERIFIED]**
-  - **Source:** Gartner Predicts 2026: AI Governance and Enterprise Risk.
-  - **Script Action:** Used in Act 2 to prevent one-sided hype and provide balanced analysis.
+**Audit Completed:** October 12, 2026  
+**Auditor:** Compliance Agent & Technical Auditor  
+**Audit Standard:** Strict HTTP verification. Direct URLs were opened via automated GET requests. If a page was accessible (HTTP 200), exact sentences were copied verbatim. If a domain returned HTTP 403 (e.g. Gartner bot protection) or 404, it is explicitly marked **UNVERIFIED DIRECT HTTP (403 PAYWALL/BOTWALL)**.
 
 ---
 
-### 2. Klarna Public Statements & Tech Stack Migration
-- **Claim:** Klarna's termination of enterprise SaaS vendor contracts.
-  - **Status:** **[VERIFIED - ACCURATELY CONTEXTUALIZED]**
-  - **Source:** Klarna CEO Sebastian Siemiatkowski Public Investor Call & Statements (August 2024 / Q2 Earnings).
-  - **Exact Public Statement:** Klarna confirmed it shut down Salesforce and was in the process of shutting down Workday within weeks, stating an internal initiative to consolidate, standardize, and simplify its tech stack using internally developed tools and AI capabilities.
-  - **Important Reality Nuance:** Later reporting (SalesforceBen, CX Today 2025/2026) showed this was not an instant "magic AI replacement," but an intensive internal software development initiative. Furthermore, Klarna retained human escalation paths when purely automated customer bots faced complex customer disputes.
-  - **Script Action:** Stated with complete precision. No sensationalized claim that "AI wiped out Salesforce overnight." It is framed as an enterprise case study in tech stack consolidation and in-house workflow automation, complete with its real-world limitations.
+### Fact-Check Table
+
+| Claim / Statistic in Script | Original URL Attempted | HTTP Status Code | Direct Page Content / Verification Note | Verification Status | Script & Asset Treatment |
+| :--- | :--- | :---: | :--- | :---: | :--- |
+| **Klarna Public Statement:** Shutting down Salesforce, phasing out Workday to build in-house tools and simplify stack. | `https://www.salesforceben.com/klarna-salesforce-workday/` | **200 OK** | **Exact sentence copied verbatim from live page:**<br>“*There are large ongoing internal initiatives that are a combination of AI, standardization, and simplification. As an example, we just shut down Salesforce. Within a few weeks, we will shut down Workday. We are shutting down a lot of our SaaS providers, as we are able to consolidate.*” | **VERIFIED (Direct HTTP 200)** | Quoted accurately in Act 3 with subsequent nuance regarding human support escalation. |
+| **Gartner \$234 Billion Exposure:** Up to \$234B in enterprise SaaS exposed to agentic arbitrage by 2030 (~20% of SaaS spend). | `https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-estimates-234-billion-in-enterprise-software-as-a-service-spending-at-risk`<br>and webinar `https://www.gartner.com/en/webinars/526711/saaspocalypse-234b-of-enterprise-apps-spending-will-be-exposed-to-agentic-arbitrage` | **403 Forbidden** (Cloudflare / Bot-block) | Direct HTTP GET blocked by Gartner anti-bot wall. Verified via Google Grounding Index summarizing Gartner's report *"SaaSpocalypse - \$234B of Enterprise Apps Spending Will be Exposed to Agentic Arbitrage"*. | **UNVERIFIED DIRECT HTTP (403 BLOCKED)** | Labeled strictly as **"Gartner estimate"** on thumbnail and in script; no claim of absolute verified fact. |
+| **Gartner 62.7% CAGR:** Agentic AI software spending projected to grow 62.7% CAGR (2025–2030). | `https://www.gartner.com/en/information-technology/research` | **403 Forbidden** (Cloudflare / Bot-block) | Direct HTTP GET blocked by Gartner anti-bot wall. Verified in search summaries. | **UNVERIFIED DIRECT HTTP (403 BLOCKED)** | Labeled strictly as an **industry forecast / estimate**. |
+| **Gartner >40% Project Cancellation Risk:** >40% of unmanaged agentic pilots canceled by end of 2027. | `https://www.gartner.com/en/information-technology/research` | **403 Forbidden** (Cloudflare / Bot-block) | Direct HTTP GET blocked by Gartner anti-bot wall. Verified in search summaries. | **UNVERIFIED DIRECT HTTP (403 BLOCKED)** | Labeled strictly as a **risk forecast / estimate**. |
 
 ---
 
-### 3. Deloitte & Industry Pricing Trends
-- **Claim:** Enterprise SaaS pricing models transitioning from "per-seat" to "consumption and outcome-based."
-  - **Status:** **[VERIFIED]**
-  - **Source:** Deloitte Center for Technology, Media & Telecommunications (2026 Technology Outlook).
-  - **Finding:** Rising enterprise pushback against paying monthly licenses for inactive or underutilized user seats; acceleration of hybrid token/outcome pricing models.
+### Chart & Diagram Provenance Audit
 
----
-
-### 4. YouTube CPM & RPM Metrics
-- **Claim:** B2B SaaS / Enterprise Tech YouTube Ad Rates (\$38–\$65 CPM, \$21–\$36 RPM).
-  - **Status:** **[LABELED AS ESTIMATE]**
-  - **Source:** Aggregated creator revenue disclosures (VidIQ, TastyEdits, OutlierKit 2026).
-  - **Caveat:** Explicitly tagged as an *industry estimate* in all internal documents and research files. Actual payouts vary based on audience geographic distribution, watch duration, and seasonal Q4 ad spend spikes.
+All chart graphics rendered in `output/saaspocalypse-ai-agents/charts/` were audited to comply with the zero-unverified-data rule:
+1. **Scene 1 (SaaS Evolution Timeline):** Labeled prominently as **"ILLUSTRATIVE EXAMPLE (CONCEPTUAL TIMELINE)"**. Zero source names attached. All arbitrary revenue figures removed.
+2. **Scene 2 (Gartner Disruption Share):** Visualizes the 20% exposure proportion. Labeled clearly: **"Gartner estimate"**.
+3. **Scene 3 (Workflow Comparison):** Labeled prominently as **"ILLUSTRATIVE EXAMPLE"**. Zero source names attached. All made-up numbers (42ms, \$0.002, 10,000 seats, \$45-\$65/hr) completely removed. Displays only qualitative architectural flow steps.
+4. **Scene 4 (Software Resilience Matrix):** Labeled prominently as **"ILLUSTRATIVE EXAMPLE (CONCEPTUAL MATRIX)"**. Zero source names attached. All made-up share numbers (85/45/15) removed.
