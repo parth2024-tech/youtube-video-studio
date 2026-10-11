@@ -1,0 +1,7 @@
+file '/home/thor/Desktop/Youtube/output/kids-bedtime-fables/render_frames/short1_01.png'
+duration 12.58
+file '/home/thor/Desktop/Youtube/output/kids-bedtime-fables/render_frames/short1_02.png'
+duration 12.58
+file '/home/thor/Desktop/Youtube/output/kids-bedtime-fables/render_frames/short1_03.png'
+duration 12.58
+file '/home/thor/Desktop/Youtube/output/kids-bedtime-fables/render_frames/short1_03.png'
