@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:04,500
+For twenty years, enterprise software ran on a simple business model:
+
+2
+00:00:04,500 --> 00:00:09,500
+build a web dashboard, charge a monthly fee for every employee who logs in,
+
+3
+00:00:09,500 --> 00:00:13,800
+and scale recurring revenue directly by seat count.
+
+4
+00:00:14,000 --> 00:00:18,500
+But according to a major forecast from research firm Gartner,
+
+5
+00:00:18,500 --> 00:00:23,800
+up to $234 billion in enterprise application software spending is now at risk by 2030.
+
+6
+00:00:24,000 --> 00:00:27,500
+Not because companies are using less software...
+
+7
+00:00:27,500 --> 00:00:32,800
+but because autonomous AI agents are beginning to bypass human dashboards.
+
+8
+00:00:33,000 --> 00:00:38,500
+To understand why this shift is happening, look at how software evolved over two decades.
+
+9
+00:00:38,500 --> 00:00:44,000
+Back in the early 2000s, software moved from CD-ROMs to recurring cloud subscriptions.
+
+10
+00:00:44,000 --> 00:00:50,000
+Vendors realized they could charge per employee, every single month, forever.
+
+11
+00:00:50,000 --> 00:00:56,000
+This created the per-seat model: 10,000 employees meant 10,000 software licenses.
+
+12
+00:00:56,000 --> 00:01:03,000
+For twenty years, Wall Street celebrated this as the most predictable model in tech.
+
+13
+00:01:03,000 --> 00:01:10,000
+Software was evaluated on interface design, menus, and screens built for human clicks.
+
+14
+00:01:10,000 --> 00:01:17,000
+As Gartner VP George Brocklehurst noted: all that usability and workflow training depreciates.
+
+15
+00:01:17,000 --> 00:01:25,000
+In research published by Gartner, analysts estimate up to $234B in SaaS spending exposed to agentic arbitrage.
+
+16
+00:01:25,000 --> 00:01:32,000
+That accounts for approximately twenty percent of overall enterprise SaaS spending by 2030.
+
+17
+00:01:32,000 --> 00:01:39,000
+Agentic arbitrage means AI agents complete tasks across systems, reducing need for human interfaces.
+
+18
+00:01:39,000 --> 00:01:46,000
+An agent does not need a visual UI. It communicates directly through APIs and databases.
+
+19
+00:01:46,000 --> 00:01:54,000
+When agents reconcile data and execute cross-platform tasks, the software interface becomes invisible.
+
+20
+00:01:54,000 --> 00:02:02,000
+This breaks the link between employee headcount and software licensing revenue.
+
+21
+00:02:02,000 --> 00:02:11,000
+In August 2024, Klarna CEO Sebastian Siemiatkowski stated publicly on an investor call:
+
+22
+00:02:11,000 --> 00:02:19,000
+"As an example, we just shut down Salesforce. Within a few weeks, we will shut down Workday."
+
+23
+00:02:19,000 --> 00:02:27,000
+"We are shutting down a lot of our SaaS providers, as we are able to consolidate."
+
+24
+00:02:27,000 --> 00:02:35,000
+Industry reporting confirmed that human escalation remained critical for complex customer disputes.
+
+25
+00:02:35,000 --> 00:02:44,000
+What Klarna proved was an aggressive enterprise push to consolidate vendors and eliminate redundant seats.
+
+26
+00:02:44,000 --> 00:02:53,000
+However, Gartner warns: more than 40% of agentic AI projects will be canceled by end of 2027.
+
+27
+00:02:53,000 --> 00:03:01,000
+Why? Complex reasoning loops consume massive tokens, and unmonitored agents create enterprise liability.
+
+28
+00:03:01,000 --> 00:03:09,000
+As Gartner analyst George Brocklehurst emphasized: SaaS will not be destroyed; it will emerge in a different form.
+
+29
+00:03:09,000 --> 00:03:17,000
+This is less an apocalypse and more of a metamorphosis.
+
+30
+00:03:17,000 --> 00:03:26,000
+Thin interface dashboards face high exposure, while deep systems of record remain resilient.
+
+31
+00:03:26,000 --> 00:03:35,000
+Vendors are transitioning from per-seat fees to outcome-based and consumption-based models.
+
+32
+00:03:35,000 --> 00:03:44,000
+Value shifts from the visual dashboard to underlying data and API orchestration layers.
+
+33
+00:03:44,000 --> 00:04:24,000
+Note: this analysis is for educational purposes only and does not constitute financial or legal advice.

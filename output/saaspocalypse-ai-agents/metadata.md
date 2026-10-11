@@ -1,4 +1,4 @@
-# YouTube Video Metadata: The \$234 Billion Saaspocalypse
+# YouTube Video Metadata: The \$234 Billion Enterprise SaaS Shift
 
 **Topic Slug:** `saaspocalypse-ai-agents`  
 **Target Geo:** United States, United Kingdom, Canada, Australia (High-CPM Tier-1)  
@@ -6,29 +6,31 @@
 
 ---
 
-## 1. Title Options (Audited & Ranked)
+## 1. Title Options (Compliant Framing: "At Risk", "Exposed", Up to \$234B by 2030)
 
-1. **The \$234B Shift: Why AI Agents Are Dismantling Enterprise Software** *(RECOMMENDED - Top CTR & High Authority)*
-2. **Why AI Agents Are Killing the \$100/Month Software Seat** *(High B2B & Operator Appeal)*
-3. **The Death of the Dashboard: How Autonomous AI Bypasses SaaS** *(Strong Technical Curiosity)*
-4. **The \$234 Billion Saaspocalypse: The Metamorphosis of Enterprise Software** *(Macroeconomic Perspective)*
-5. **How AI Agents Break the SaaS Business Model (Gartner Data Breakdown)** *(Search & Evergreen Traffic)*
+1. **Up to \$234B at Risk: How AI Agents Are Reshaping Enterprise Software** *(RECOMMENDED - High Authority & Exact Compliance)*
+2. **Why AI Agents Put the \$100/Month Software Seat at Risk** *(High B2B & Operator Appeal)*
+3. **The Software Metamorphosis: How Autonomous AI Bypasses the Dashboard** *(Architectural & Strategic Focus)*
+4. **The \$234B Enterprise SaaS Shift: What Gartner’s Forecast Means for Tech** *(Macroeconomic Perspective)*
+5. **Beyond the Software Seat: How Agentic AI Alters Enterprise SaaS (Gartner Data Breakdown)** *(Evergreen Search)*
 
 ---
 
-## 2. Video Description (Optimized for High-CPM Keywords & Source Transparency)
+## 2. Video Description
 
 ```markdown
 For twenty years, enterprise software relied on a simple formula: build a web dashboard, charge $100 per employee per month, and lock corporations into multi-year seat licenses. 
 
-Now, research firm Gartner projects that up to $234 billion in enterprise software-as-a-service (SaaS) spending is at risk of disruption from "agentic arbitrage" by 2030. When autonomous AI agents execute tasks directly through APIs, the human GUI dashboard becomes invisible—and companies no longer need thousands of human software seats.
+Now, research firm Gartner projects that up to $234 billion in enterprise application software spending is at risk from "agentic arbitrage" by 2030. When autonomous AI agents execute tasks directly through APIs, the human GUI dashboard becomes invisible—and companies no longer evaluate software purely on screens and seats.
+
+Crucially, as Gartner analyst George Brocklehurst emphasizes: "SaaS will not be destroyed; it will emerge in a different form. This is less an apocalypse and more of a metamorphosis."
 
 In this deep-dive analysis, we break down:
-- The 20-year history of the "per-seat" software tax.
+- The 20-year history of the "per-seat" software licensing model.
 - What "agentic arbitrage" actually means for enterprise workflows.
-- Case Study: The truth behind Klarna’s decision to move away from legacy SaaS platforms.
-- The 40% Crash Warning: Why over 40% of unmanaged AI agent pilots risk cancellation by 2027.
-- The Survival Matrix: Which software categories are vulnerable vs. which systems of record hold deep moats.
+- Case Study: What Klarna actually said about consolidating their SaaS providers.
+- The Reality Check: Why Gartner predicts more than 40% of agentic AI projects will be canceled by the end of 2027.
+- The Software Resilience Matrix: Which categories are most exposed vs. which systems of record remain resilient.
 
 ---
 DISCLAIMER:
@@ -36,34 +38,38 @@ This video is for educational, analytical, and informational purposes only and d
 
 ---
 VERIFIED DATA SOURCES & CITATIONS:
-1. Gartner Enterprise Application Forecast (July 1, 2026): "Gartner Estimates $234 Billion in Enterprise SaaS Spending at Risk of Disruption From Agentic Arbitrage by 2030"
-https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-estimates-234-billion-in-enterprise-software-as-a-service-spending-at-risk
-2. Gartner Emerging Technologies Forecast (2025–2030): Agentic AI Software Spending 62.7% CAGR
-https://www.gartner.com/en/information-technology/research
-3. Gartner Predicts 2026: AI Governance and Project Cancellation Risks (40%+ pilot risk)
-4. Klarna Q2 Earnings Call Transcript (August 2024): Public statements regarding Salesforce & Workday stack consolidation.
-5. Deloitte 2026 Technology Outlook: Shift toward outcome-based and consumption-based software pricing.
+1. Gartner Newsroom Press Release (July 1, 2026):
+"Gartner Says US Dollars 234 Billion in Enterprise Application Software Spend Is at Risk from Agentic Artificial Intelligence"
+https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence
+2. CIO.com (Corroborating Coverage of Gartner Analysis):
+"Agentic AI puts $234B in enterprise SaaS spending at risk, Gartner says"
+https://www.cio.com/article/4192242/
+3. Klarna Public Statements:
+Verbatim transcript from Klarna CEO Sebastian Siemiatkowski via SalesforceBen:
+https://www.salesforceben.com/klarna-salesforce-workday/
+4. Gartner AI Project Risk Forecast:
+"More than 40% of agentic AI projects will be canceled by the end of 2027"
 
-#AIAgents #SaaS #ArtificialIntelligence #EnterpriseTech #BusinessStrategy #Gartner
+#AIAgents #SaaS #EnterpriseTech #ArtificialIntelligence #Gartner #BusinessStrategy
 ```
 
 ---
 
 ## 3. High-RPM Keyword Tags (Max 500 Chars)
 
-`AI agents, agentic AI, enterprise SaaS, Gartner AI report, future of software, SaaS business model, per-seat licensing, Klarna AI, B2B software, artificial intelligence, Claude Code, autonomous agents, API economy, tech economy, enterprise automation, software industry trends`
+`AI agents, agentic AI, enterprise SaaS, Gartner estimate, future of software, SaaS business model, per-seat licensing, Klarna AI, B2B software, artificial intelligence, autonomous agents, API workflows, software economics, enterprise automation, agentic arbitrage`
 
 ---
 
 ## 4. Video Chapters & Timestamps
 
-- `00:00` - The \$234 Billion Shift
-- `00:15` - Act 1: The Golden Age of the \$100/Seat Tax
+- `00:00` - Up to \$234B at Risk
+- `00:15` - Act 1: The Era of the Per-Seat License
 - `01:45` - Act 2: Enter "Agentic Arbitrage"
-- `03:30` - Act 3: Case Study: What Klarna Actually Did
-- `05:15` - Act 4: The 40% Crash Warning (Reality Check)
-- `06:45` - Act 5: The Survival Matrix (Who Wins & Who Loses)
-- `08:00` - Conclusion & The Future of Enterprise Work
+- `03:30` - Act 3: Case Study: What Klarna Actually Said
+- `05:15` - Act 4: The 40% Cancellation Warning (Reality Check)
+- `06:45` - Act 5: The Software Metamorphosis (Who Adapts)
+- `08:00` - Conclusion & Educational Disclaimer
 
 ---
 
@@ -71,17 +77,9 @@ https://www.gartner.com/en/information-technology/research
 
 - **Best Days:** Tuesday or Thursday
 - **Best Time:** **13:00 – 15:00 UTC** (09:00 – 11:00 AM US Eastern / 06:00 – 08:00 AM US Pacific)
-  - *Rationale:* Catches morning B2B tech professionals during early workday desk browsing in the US and afternoon commuting/lunch viewing across the UK and Europe.
 
 ---
 
-## 6. YouTube "Altered or Synthetic Content" Label Assessment
+## 6. YouTube "Altered or Synthetic Content" Label
 
-Under YouTube's updated policy on AI-generated content (mandated for realism and transparency):
-
-- **Does this video require the label?** **YES (Partial Disclosure Required)**
-  - **Reason:** The voiceover uses neural text-to-speech synthesis (`edge-tts` / `en-US-ChristopherNeural`), which creates realistic human-sounding speech.
-  - **Which checkbox to select in YouTube Studio:**
-    - *"Makes a real person appear to say or do something they didn't?"* -> **NO** (No deepfake of any named human).
-    - *"Makes a realistic-looking scene that didn't happen?"* -> **NO** (Visuals are synthetic data charts, diagrams, and typography, not photorealistic video simulations).
-    - *"Generated synthetic audio?"* -> **YES** (Check the box for synthetic voiceover narration).
+- **Generated synthetic audio?** $\rightarrow$ **YES** (Narrated via neural text-to-speech `edge-tts`). Check the box for synthetic audio in YouTube Studio.
